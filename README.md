@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanylgumapo
-- 👀 I’m interested in ... Laravel, vuejs, reactjs, tailwind css, sass, mysql, inertiajs
+- 👀 I’m interested in ... Laravel, vuejs, reactjs, tailwind css, sass, mysql, inertiajs, react native, flutter, firebase, phyton
 - 🌱 I’m currently learning ... laravel, vuejs, inertiajs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email: gumappojeanyl@gmail.com
