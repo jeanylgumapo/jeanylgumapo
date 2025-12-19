@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Laravel, vuejs, reactjs, tailwind css, sass, mysql, inertiajs, react native, flutter, firebase, phyton
 - 🌱 I’m currently learning ... laravel, vuejs, inertiajs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email: gumappojeanyl@gmail.com
+- 📫 How to reach me through my email: gumapojeanyl@gmail.com
 
 <!---
 jeanylgumapo/jeanylgumapo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
